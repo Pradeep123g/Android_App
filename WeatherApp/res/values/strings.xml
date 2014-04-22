@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherApp</string>
+    <string name="edit_message">  Zip or Location</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_send">Search</string>
+    <string name="radioone">"\u00b0"F</string>
+    <string name="radiotwo">"\u00b0"C</string>
+    <string name="condition">condition</string> 
+    <string name="content"></string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Day">Day</string>
+    <string name="Weather">Weather</string>
+    <string name="High">High</string>
+    <string name="Low">Low</string>
+    <string name="forecast">Forecast</string>
+    <string name="currentweather">Share Current Weather</string>
+    <string name="weatherforecast">Share Weather Forecast</string>
+    <string name="app_id">236115536552935</string>
+    <string name="instructions">Ins</string>
+    <string name="login">login</string>
+    <string name="logout">logout</string>
+    
+    
+
+</resources>
